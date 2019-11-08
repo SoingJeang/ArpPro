@@ -1,5 +1,5 @@
 #加密
-
+#https://blog.csdn.net/qq_37865996/article/details/87743230
 #https://scapy.net/
 
 key='A'							  #密钥
